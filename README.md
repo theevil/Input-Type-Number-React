@@ -1,6 +1,8 @@
 # Input-Type-Number-React
 This component is designed to replace the input type number of browser natives because they let [-, e, +]     and additional to this adds a toLocalString
-
+    
+    import NumberFiled from 'replace whith NumberFiled.jsx path'
+    
     <NumberFiled                        // all the props are optional
         required name="quantity"               
         id="quantity" 
